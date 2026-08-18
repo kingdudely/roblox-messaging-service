@@ -1,6 +1,6 @@
 {
 	"name": "roblox-studio-messaging-service",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Roblox Studio MessagingService implemented in NodeJS! (Sorry, couldn't get it working in the browser)",
 	"keywords": [],
 	"homepage": "https://github.com/kingdudely/roblox-studio-messaging-service#readme",
