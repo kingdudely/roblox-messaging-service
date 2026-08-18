@@ -1,7 +1,7 @@
 # How to install
 Install this library using
 ```
-npm install kingdudely/MessagingServiceJS
+npm install messagingservice
 ```
 
 # How to use

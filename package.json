@@ -1,15 +1,15 @@
 {
-	"name": "messagingservicejs",
+	"name": "messagingservice",
 	"version": "2.1.0",
 	"description": "MessagingService implemented in NodeJS! (Sorry, couldn't get it working in the browser)",
 	"keywords": [],
-	"homepage": "https://github.com/kingdudely/MessagingServiceJS#readme",
+	"homepage": "https://github.com/kingdudely/MessagingService#readme",
 	"bugs": {
-		"url": "https://github.com/kingdudely/MessagingServiceJS/issues"
+		"url": "https://github.com/kingdudely/MessagingService/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kingdudely/MessagingServiceJS.git"
+		"url": "git+https://github.com/kingdudely/MessagingService.git"
 	},
 	"license": "MIT",
 	"author": "kingdudely",

@@ -1,4 +1,4 @@
-import MessagingServiceFactory from "messagingservicejs";
+import MessagingServiceFactory from "messagingservice";
 
 const universeId = 69_420_1337_80085;
 const ROBLOSECURITY = "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|...";
