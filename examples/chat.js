@@ -8,6 +8,7 @@ await MessagingService.ConnectAsync();
 
 await MessagingService.SubscribeAsync("chat", async function onChat(message) {
         console.log("Received message:", message.Data);
+        console.log("When it was sent:", message.Sent);
         await MessagingService.UnsubscribeAsync("chat", onChat);
         await MessagingService.DisconnectAsync();
 });
