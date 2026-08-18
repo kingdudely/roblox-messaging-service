@@ -1,15 +1,15 @@
 {
-	"name": "messagingservice",
+	"name": "roblox-messaging-service",
 	"version": "2.1.0",
 	"description": "MessagingService implemented in NodeJS! (Sorry, couldn't get it working in the browser)",
 	"keywords": [],
-	"homepage": "https://github.com/kingdudely/MessagingService#readme",
+	"homepage": "https://github.com/kingdudely/roblox-messaging-service#readme",
 	"bugs": {
-		"url": "https://github.com/kingdudely/MessagingService/issues"
+		"url": "https://github.com/kingdudely/roblox-messaging-service/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kingdudely/MessagingService.git"
+		"url": "git+https://github.com/kingdudely/roblox-messaging-service.git"
 	},
 	"license": "MIT",
 	"author": "kingdudely",
