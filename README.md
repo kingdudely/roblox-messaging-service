@@ -1,3 +1,5 @@
+# ONLY WORKS WITH ROBLOX STUDIO MESSAGINGSERVICE
+
 # How to install
 Install this library using
 ```
