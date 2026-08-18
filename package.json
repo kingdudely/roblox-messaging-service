@@ -11,7 +11,7 @@
 		"type": "git",
 		"url": "git+https://github.com/kingdudely/roblox-studio-messaging-service.git"
 	},
-	"license": "MIT",
+	"license": "ISC",
 	"author": "kingdudely",
 	"type": "module",
 	"main": "./lib/index.js",
