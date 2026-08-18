@@ -3,7 +3,7 @@
 # How to install
 Install this library using
 ```
-npm install roblox-messaging-service
+npm install roblox-studio-messaging-service
 ```
 
 # How to use
