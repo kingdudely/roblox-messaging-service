@@ -6,10 +6,9 @@ const ROBLOSECURITY = "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-so
 const MessagingService = new MessagingServiceFactory(ROBLOSECURITY, universeId);
 await MessagingService.ConnectAsync();
 
-let unsubscribeAsync
-unsubscribeAsync = await MessagingService.SubscribeAsync("chat", async (message) => {
+await MessagingService.SubscribeAsync("chat", async function onChat(message) {
         console.log("Received message:", message.Data);
-        await unsubscribeAsync(); // or await MessagingService.UnsubscribeAsync("chat", callback)
+        await MessagingService.UnsubscribeAsync("chat", onChat);
         await MessagingService.DisconnectAsync();
 });
 
